@@ -1,0 +1,17 @@
+# Ignora tudo 
+*
+
+# Não ignora as pastas de código 
+!1_Semestre/Algoritmos/Prova 1 de algoritimo
+!1_Semestre/Algoritmos/Trabalho final de algoritimos
+!1_Semestre/Algoritmos/trabalho1 de algoritmo.py
+!1_Semestre/Algoritmos/trabalho2 de algoritmo.py
+!1_Semestre/Algoritmos/trabalho3 de algoritmo.py
+!1_Semestre/Algoritmos/trabalho4.py
+!!1_Semestre/Algoritmos/treino.py
+
+# Não ignora o README.md
+!README.md
+
+#Não ignora o prório .gitignore
+!.gitignore
