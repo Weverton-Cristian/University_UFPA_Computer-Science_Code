@@ -1,17 +1,12 @@
-# Ignora tudo 
+# Ignora tudo
 *
 
-# Não ignora as pastas de código 
-!1_Semestre/Algoritmos/Prova 1 de algoritimo
-!1_Semestre/Algoritmos/Trabalho final de algoritimos
-!1_Semestre/Algoritmos/trabalho1 de algoritmo.py
-!1_Semestre/Algoritmos/trabalho2 de algoritmo.py
-!1_Semestre/Algoritmos/trabalho3 de algoritmo.py
-!1_Semestre/Algoritmos/trabalho4.py
-!!1_Semestre/Algoritmos/treino.py
+# Permite pastas do projeto
+!*/
 
-# Não ignora o README.md
-!README.md
+# Permite arquivos Python
+!*.py
 
-#Não ignora o prório .gitignore
+# Permite o próprio .gitignore e README.md, se quiser
 !.gitignore
+!README.md
